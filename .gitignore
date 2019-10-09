@@ -1,0 +1,6 @@
+/target
+**/*.rs.bk
+*.inp
+*.bin
+*.ascii
+/out
